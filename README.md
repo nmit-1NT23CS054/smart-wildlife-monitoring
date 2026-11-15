@@ -1,4 +1,3 @@
-
 # Smart Wildlife Monitoring and Threat Analysis System
 
 ## Overview
